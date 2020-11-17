@@ -15,6 +15,10 @@ node app -> Ejecutar el programa de node
 ```
 
 ```
-node app --hepl -> Para ver los comandos que se necesita para crear la tabla o listarla
+node app listar --help -> Para ver los flags que se necesita para listar una tabla
+```
+
+```
+node app cread --help -> Para ver los flags que se necesita para crear una tabla
 ```
 
